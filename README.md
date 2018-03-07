@@ -3,7 +3,7 @@ Node js Chat application including chat server and EJS views.
 
 Install
 
-git clone https://github.com/qodors/NodeJS-Chat-Application.git
+git clone https://github.com/parixitas/NodeJS.git
 
 
 Run Chat server
